@@ -1,4 +1,4 @@
-# Active Admin
+# Ruben Admin - an extension of Active Admin
 
 [Active Admin](https://activeadmin.info) is a Ruby on Rails framework for
 creating elegant backends for website administration.
